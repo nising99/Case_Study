@@ -1,3 +1,3 @@
-# Mathematical and Statistical Software Assignment 4
+# Case Study
 
 Assignment 4's contents.
