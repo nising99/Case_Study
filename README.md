@@ -1,3 +1,3 @@
 # Case Study
 
-Assignment 4's contents.
+Using Python to perform simple linear regression, multiple linear regression and prediction. 
